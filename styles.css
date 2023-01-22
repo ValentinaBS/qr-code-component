@@ -48,7 +48,7 @@ body {
     padding: 3px 28px 35px 28px;
 }
 
-h3 {
+h1 {
     color: var(--d-blue);
     font-size: 22px;
 }
@@ -63,6 +63,6 @@ a {
     color: hsl(228, 45%, 44%);
 }
 
-.attribution {
+footer {
     margin-top: 30px;
 }
