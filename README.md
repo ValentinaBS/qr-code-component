@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-aLkPYh6hP9)
-- Live Site URL: [](https://vercel.com/valentinabs/qr-code-component)
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-aLkPYh6hP9)
+- Live Site URL: [Vercel Deploy](https://vercel.com/valentinabs/qr-code-component)
 
 ### Built with
 
