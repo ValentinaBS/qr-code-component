@@ -2,19 +2,15 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Had a lot of fun trying to replicate what I could see in the preview image! 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-- [Author](#author)
-
 ## Overview
 
 ### Screenshot
 
+My solution
 ![preview image](./design/results-preview.png)
+
+Frontend Mentor reference
+![reference image](./design/desktop-design.jpg)
 
 ### Links
 
